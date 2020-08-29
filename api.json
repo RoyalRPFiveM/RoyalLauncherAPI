@@ -1,3 +1,12 @@
 {
-  "api": "https://localhost/launcher"
+  "api_tunel": "https://localhost/launcher",
+  "server_status": 1,
+  "players_online": 80,
+  "discord": "https://discord.gg/royalrp",
+  "teamspeak": "royalroleplay.ts3brasil.com.br",
+  "ip": "rp.cidaderoyal.com",
+  "porta": 30120,
+  "version": 1,
+  "update_link_zip": "https://github.com/RoyalRPFiveM/RoyalLauncherAPI/raw/master/royal.zip",
+  "tokovoip_link": "https://github.com/RoyalRPFiveM/RoyalLauncherAPI/raw/master/Royal_Plugin.ts3_plugin"
 }
