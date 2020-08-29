@@ -1,5 +1,7 @@
 {
   "api_tunel": "https://localhost/launcher",
+  "nome_server": "RoyalRP",
+  "nome_launcher": "Launcher",
   "server_status": 1,
   "players_online": 80,
   "discord": "https://discord.gg/royalrp",
