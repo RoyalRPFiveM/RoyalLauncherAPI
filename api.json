@@ -9,7 +9,7 @@
   "teamspeak": "royalroleplay.ts3brasil.com.br",
   "server_ip": "rp.cidaderoyal.com",
   "server_port": 30120,
-  "version": 2,
+  "version": 1,
   "update_link_zip": "https://github.com/RoyalRPFiveM/RoyalLauncherAPI/raw/master/royal.zip",
   "tokovoip_link": "https://github.com/RoyalRPFiveM/RoyalLauncherAPI/raw/master/Royal_Plugin.ts3_plugin",
   "debug": "1"
